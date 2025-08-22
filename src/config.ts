@@ -169,7 +169,7 @@ export const profileConfig: ProfileConfig = {
 	umami: {
 		enable: true, // 是否显示umami统计
 		shareId: "ZCQnqw2i6JgLpMcQ", //填入共享URL最后面那一串  比如：https://eu.umami.is/api/share/2dKQ5T0WrUn6AYtr 你就填入2dKQ5T0WrUn6AYtr
-		region: "eu", //Umami有两个区域，按需选择即可  比如：https://eu.umami.is 你就填入eu
+		region: "us", //Umami有两个区域，按需选择即可  比如：https://eu.umami.is 你就填入eu
 	},
 };
 
