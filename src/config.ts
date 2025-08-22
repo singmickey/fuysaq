@@ -74,6 +74,7 @@ export const siteConfig: SiteConfig = {
 			subtitle: [
 				"一个属于时光的网站",
 				"无限进步",
+				"如果以后见不到了，祝你早安、午安、下午安、晚安.",
 			], // Homepage banner subtitle, supports multiple texts
 			typewriter: {
 				enable: true, // Enable subtitle typewriter effect
